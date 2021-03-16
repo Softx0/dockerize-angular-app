@@ -1,5 +1,8 @@
 # PokeApp with Angular Material
 
+Projecto creado por https://amoelcodigo.com/
+Dockerizado por Softx0
+
 Angular aplication that uses pokeapi:
 https://pokeapi.co/docs/v2#pokemon-section
 
