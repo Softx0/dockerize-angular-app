@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "PokeApp"
+  "defaultProject": "PokeApp",
+  "cli": {
+    "analytics": "90aa00ad-ab90-4007-b2bb-a6848336e3c1"
+  }
 }
